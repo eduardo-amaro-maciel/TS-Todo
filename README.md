@@ -1,5 +1,7 @@
 # TS-Todo
 
+<img src="./design.png"/>
+
 Feito pelo meme, pois estava testando ts puro com sass
 
 - para compilar 'tsc index.ts'
